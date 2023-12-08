@@ -1,3 +1,5 @@
+[![An old rock in the desert](https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/mizanur-rahman-ridoy/)
+
 ## Current Overview
 - 🔭 I’m currently ready to... join a company
 - 🌱 I’m currently learning... NextJS
