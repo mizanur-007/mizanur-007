@@ -1,8 +1,3 @@
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizanur-007&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mizanur-007&theme=2077)
-
 ## Current Overview
 - 🔭 I’m currently ready to... join a company
 - 🌱 I’m currently learning... NextJS
@@ -11,3 +6,9 @@
 - 💬 Ask me about ...ReactJS, JavaScript, Tailwind, Firebase
 - 📫 How to reach me: ... email: mizanridoy007@gmail.com
 - ⚡ Fun fact: ...Love to travel and trekking to wild life
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizanur-007&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mizanur-007&theme=2077)
+
