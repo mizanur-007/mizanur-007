@@ -2,9 +2,12 @@
   <img src="https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png" alt="An old rock in the desert" title="Shiprock, New Mexico by Beau Rogers" height="400" width='800'>
 </a>
 
+## Description
+Frontend-focused MERN stack developer now diving into backend technologies to broaden my expertise. Envisioning myself as a seasoned senior developer, I'm focused to learn new technologies and embracing best practices. Committed to mastering cloud services, containers, and continuous learning to architect scalable, innovative solutions. My goal: Seamlessly merge frontend and backend prowess to craft robust, user-centric applications.
 
 ## Current Status
 - 🔭 I’m currently looking for... opportunities to contribute to a company and polish my skills and gain experience from professionals.
+- ⚡ I’m currently working... with ReactJS, Firebase, MongoDB, NodeJS, ExpressJS
 - 🌱 I’m currently learning... NextJS
 - ⚡ I am determined to... establish myself as a senior developer within 2 years 
 - 👯 I’m looking to collaborate... on open source projects
