@@ -4,7 +4,7 @@
 
 
 ## Current Overview
-- 🔭 I’m currently ready to... join a company
+- 🔭 I’m currently looking for... opportunities to contribute to a company and polish my skills and gain experience from professionals.
 - 🌱 I’m currently learning... NextJS
 - ⚡ I am determined to... establish myself as a senior developer within 2 years 
 - 👯 I’m looking to collaborate... on open source projects
