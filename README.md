@@ -30,7 +30,10 @@
 
 ## Technologies I am Comfortable With
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,mongodb,firebase,nodejs,expressjs,github,tailwind,materialui,c,python&perline=5)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,mongodb,firebase,nodejs,expressjs,github,tailwind,materialui,c,python&perline=5" alt="My Skills" title="My Skills" style="width: 400px; height: auto;">
+</a>
+
 
 
 
