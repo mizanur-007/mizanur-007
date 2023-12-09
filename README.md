@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/mizanur-rahman-ridoy/">
-  <img src="https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png" alt="An old rock in the desert" title="Shiprock, New Mexico by Beau Rogers" height="200">
+  <img src="https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png" alt="An old rock in the desert" title="Shiprock, New Mexico by Beau Rogers" height="300" width='800'>
 </a>
 
 
