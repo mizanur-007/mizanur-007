@@ -28,5 +28,10 @@
   <img style='margin-left: 10px' src="https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/gmail.png" alt="An old rock in the desert" title="Shiprock, New Mexico by Beau Rogers" height="80" width='80'>
 </a>
 
+## Technologies I am Comfortable With
+
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg "San Juan Mountains")
+
 
 
