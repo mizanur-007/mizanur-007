@@ -31,7 +31,7 @@
 ## Technologies I am Comfortable With
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,mongodb,firebase,nodejs,expressjs,github,tailwind,materialui,c,python&perline=7" alt="My Skills" title="My Skills" style="width: 400px; height: auto;display:'flex';justify-content:'center';">
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,mongodb,firebase,nodejs,expressjs,github,tailwind,materialui,c,python&perline=13" alt="My Skills" title="My Skills" style="width: 400px; height: auto;">
 </a>
 
 
