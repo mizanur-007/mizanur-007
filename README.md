@@ -35,5 +35,22 @@
 </a>
 
 
+## Latest Projects
+
+ <a href='https://github.com/mizanur-007/ChatCanvas'>
+ <h3>Chat Canvas</h3>
+ </a>
+ <p>MERN Stack Project</p>
+ <p>Live Link: <a href='https://chatcanvas-460ce.web.app/'>https://chatcanvas-460ce.web.app/</a></p>
+ <p>GitHub Repository: <a href='https://github.com/mizanur-007/ChatCanvas'>https://github.com/mizanur-007/ChatCanvas</a></p>
+
+ <a href='https://github.com/mizanur-007/SyncStudy'>
+ <h3>SyncStudy</h3>
+ </a>
+ <p>MERN Stack Project</p>
+ <p>Live Link: <a href='https://syncstudy-d2433.web.app/'>https://syncstudy-d2433.web.app/</a></p>
+ <p>GitHub Repository: <a href='https://github.com/mizanur-007/SyncStudy'>https://github.com/mizanur-007/SyncStudy</a></p>
+
+
 
 
