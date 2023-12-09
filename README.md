@@ -3,7 +3,7 @@
 </a>
 
 
-## Current Overview
+## Current Status
 - 🔭 I’m currently looking for... opportunities to contribute to a company and polish my skills and gain experience from professionals.
 - 🌱 I’m currently learning... NextJS
 - ⚡ I am determined to... establish myself as a senior developer within 2 years 
@@ -20,5 +20,7 @@
 
 
 ## Contact
+
+
 
 
