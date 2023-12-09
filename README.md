@@ -20,13 +20,8 @@ Frontend-focused MERN stack developer now diving into backend technologies to br
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizanur-007&theme=2077)
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mizanur-007&theme=2077">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=mizanur-007&theme=prussian">
-    </a>
-</div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mizanur-007&theme=prussian)](https://git.io/streak-stats)
 
 
 
