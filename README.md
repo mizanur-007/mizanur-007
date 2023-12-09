@@ -21,8 +21,8 @@
 
 ## Contact
 
-<a style="display: flex; justify-content: center; align-items: center; border: 2px solid cyan; padding-top:3px; padding-bottom:3px; padding-right:6px; padding-left:6px;" href="https://www.linkedin.com/in/mizanur-rahman-ridoy/">
-LinkedIn
+<a style="display: flex; justify-content: center; align-items: center; border: 2px solid cyan; background-color:white; padding-right:6px; padding-left:6px;" href="https://www.linkedin.com/in/mizanur-rahman-ridoy/">
+<h3>LinkedIn</h3>
   <img style='margin-left: 10px' src="https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/LinkedIn.jpg" alt="An old rock in the desert" title="Shiprock, New Mexico by Beau Rogers" height="40" width='40'>
 </a>
 
