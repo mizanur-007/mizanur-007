@@ -21,22 +21,10 @@
 
 ## Contact
 
-<div style="display: flex; justify-content: center;">
-<div>
-
 <a style="display: flex; justify-content: center; align-items: center; border: 2px solid cyan; padding-top:3px; padding-bottom:3px; padding-right:6px; padding-left:6px;" href="https://www.linkedin.com/in/mizanur-rahman-ridoy/">
 LinkedIn
   <img style='margin-left: 10px' src="https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/LinkedIn.jpg" alt="An old rock in the desert" title="Shiprock, New Mexico by Beau Rogers" height="40" width='40'>
 </a>
-</div>
 
-<div style='margin-left: 20px'>
-
-<a style="display: flex; justify-content: center; align-items: center; border: 2px solid cyan; padding-top:3px; padding-bottom:3px; padding-right:6px; padding-left:6px" href="mizanridoy007@gmail.com">
-Email
-  <img style='margin-left: 10px' src="https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/gmail.png" alt="An old rock in the desert" title="Shiprock, New Mexico by Beau Rogers" height="40" width='40'>
-</a>
-</div>
-</div>
 
 
