@@ -24,6 +24,9 @@
 <a  href="https://www.linkedin.com/in/mizanur-rahman-ridoy/">
   <img style='margin-left: 10px' src="https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/LinkedIn.jpg" alt="An old rock in the desert" title="Shiprock, New Mexico by Beau Rogers" height="80" width='80'>
 </a>
+<a  href="mizanridoy007@gmail.com">
+  <img style='margin-left: 10px' src="https://raw.githubusercontent.com/mizanur-007/mizanur-007/main/images/LinkedIn.jpg" alt="An old rock in the desert" title="Shiprock, New Mexico by Beau Rogers" height="80" width='80'>
+</a>
 
 
 
