@@ -30,8 +30,7 @@
 
 ## Technologies I am Comfortable With
 
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg "San Juan Mountains")
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg "San Juan Mountains")
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,mongodb,firebase,nodejs,expressjs,github,tailwind,materialui,c,python&perline=5)](https://skillicons.dev)
 
 
 
